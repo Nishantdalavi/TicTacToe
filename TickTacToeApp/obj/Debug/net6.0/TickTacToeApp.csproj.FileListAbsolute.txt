@@ -1,0 +1,15 @@
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\bin\Debug\net6.0\TickTacToeApp.exe
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\bin\Debug\net6.0\TickTacToeApp.deps.json
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\bin\Debug\net6.0\TickTacToeApp.runtimeconfig.json
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\bin\Debug\net6.0\TickTacToeApp.dll
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\bin\Debug\net6.0\TickTacToeApp.pdb
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.csproj.AssemblyReference.cache
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.AssemblyInfoInputs.cache
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.AssemblyInfo.cs
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.csproj.CoreCompileInputs.cache
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.dll
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\refint\TickTacToeApp.dll
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.pdb
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\TickTacToeApp.genruntimeconfig.cache
+C:\Users\pitesh\MonoDotNet03\TickTacToeApp\obj\Debug\net6.0\ref\TickTacToeApp.dll
